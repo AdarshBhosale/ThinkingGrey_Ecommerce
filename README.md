@@ -1,4 +1,4 @@
-ThinkingGrey Ecommerce is a full-stack MERN application that allows users to browse, purchase, and access online courses. The system includes automated bill/invoice generation, secure authentication, and a powerful admin panel to manage courses, users, and orders.
+Thinking Grey Ecommerce is a full-stack MERN application that allows users to browse, purchase, and access online courses. The system includes automated bill/invoice generation, secure authentication, and a powerful admin panel to manage courses, users, and orders.
 
 ## 🌟 Features
 
@@ -44,4 +44,5 @@ ThinkingGrey Ecommerce is a full-stack MERN application that allows users to bro
 
 ### **Database**
 - MongoDB / Mongoose  
+
 
